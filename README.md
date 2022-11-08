@@ -1,3 +1,2 @@
-# EON API 
-Unique API!
+<h1 align=center>EonAPI</h1>
 
