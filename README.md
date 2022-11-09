@@ -1,12 +1,14 @@
-<h1 align=center> Eon API </h1>
-**Poweful API with many EndPoints!**
+<div align=center>
+ <h1> Eon API </h1> 
+ <b>Poweful API with many EndPoints!</b>
+</div>
 
-### ✨ Feature 
+## ✨ Feature 
 - Create with [easy-api.ts](https://eats.miduwu.ga) package
 - Over 12+ endpoint 
 - 99,80% UpTime
 - Smal time maintenance
 
-### 📟 Endpoint
+## 📟 Endpoint
 - [So many more](https://eon.api/endpoints)
 
