@@ -1,7 +1,5 @@
 <h1 align=center> Eon API </h1>
- **on work, soon will release**
-
-<!-- **Poweful API with many EndPoints!**
+**Poweful API with many EndPoints!**
 
 ### ✨ Feature 
 - Create with [easy-api.ts](https://eats.miduwu.ga) package
@@ -11,4 +9,4 @@
 
 ### 📟 Endpoint
 - [So many more](https://eon.api/endpoints)
---!>
+
