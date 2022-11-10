@@ -1,5 +1,5 @@
 <div align=center>
- <h1> Eon API </h1> 
+ <h1> EON API </h1> 
  <b>Poweful API with many EndPoints!</b>
 </div>
 
